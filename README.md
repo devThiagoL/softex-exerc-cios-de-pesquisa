@@ -1,1 +1,1 @@
-# softex-exerc-cios-de-pesquisa
+# softex-exercicios-de-pesquisa
